@@ -1,0 +1,7 @@
+C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cs\dotnet40\NonTableManagerSamples\GetHistPrices\bin\GetHistPrices.exe.config
+C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cs\dotnet40\NonTableManagerSamples\GetHistPrices\bin\GetHistPrices.exe
+C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cs\dotnet40\NonTableManagerSamples\GetHistPrices\bin\GetHistPrices.pdb
+C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cs\dotnet40\NonTableManagerSamples\GetHistPrices\bin\fxcore2.dll
+C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cs\dotnet40\NonTableManagerSamples\GetHistPrices\obj\x64\Debug\GetHistPrices.csprojResolveAssemblyReference.cache
+C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cs\dotnet40\NonTableManagerSamples\GetHistPrices\obj\x64\Debug\GetHistPrices.exe
+C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cs\dotnet40\NonTableManagerSamples\GetHistPrices\obj\x64\Debug\GetHistPrices.pdb

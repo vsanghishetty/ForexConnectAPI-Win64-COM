@@ -1,0 +1,49 @@
+﻿Build started 2/2/2016 2:03:58 PM.
+     1>Project "C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cpp\TableManagerSamples\OpenPosition\OpenPosition.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /I../../sample_tools/include /I../../../../include /Zi /nologo /W3 /WX- /Od /D WIN32 /D WIN64 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"obj/x64/Debug\\" /Fd"obj/x64/Debug\vc110.pdb" /Gd /TP /errorReport:prompt source\CommonSources.cpp source\LoginParams.cpp source\main.cpp source\OrderMonitor.cpp source\ResponseListener.cpp source\SampleParams.cpp source\SessionStatusListener.cpp source\TableListener.cpp
+         TableListener.cpp
+         SessionStatusListener.cpp
+         SampleParams.cpp
+         ResponseListener.cpp
+         OrderMonitor.cpp
+         main.cpp
+         LoginParams.cpp
+         CommonSources.cpp
+     1>source\CommonSources.cpp(36): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(110) : see declaration of 'strcpy'
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cpp\TableManagerSamples\OpenPosition\bin\OpenPosition.exe" /INCREMENTAL /NOLOGO /LIBPATH:../../../../lib /LIBPATH:../../sample_tools/lib ForexConnect.lib sample_tools.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cpp\TableManagerSamples\OpenPosition\bin\OpenPosition.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cpp\TableManagerSamples\OpenPosition\bin\OpenPosition.lib" /MACHINE:X64 obj/x64/Debug\CommonSources.obj
+         obj/x64/Debug\LoginParams.obj
+         obj/x64/Debug\main.obj
+         obj/x64/Debug\OrderMonitor.obj
+         obj/x64/Debug\ResponseListener.obj
+         obj/x64/Debug\SampleParams.obj
+         obj/x64/Debug\SessionStatusListener.obj
+         obj/x64/Debug\TableListener.obj
+         OpenPosition.vcxproj -> C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cpp\TableManagerSamples\OpenPosition\bin\OpenPosition.exe
+       PostBuildEvent:
+         copy "C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cpp\TableManagerSamples\OpenPosition\..\..\..\..\bin\*.dll" "C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cpp\TableManagerSamples\OpenPosition\bin\"
+         copy "C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cpp\TableManagerSamples\OpenPosition\..\..\sample_tools\bin\*.dll" "C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cpp\TableManagerSamples\OpenPosition\bin\"
+         
+         :VCEnd
+         C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cpp\TableManagerSamples\OpenPosition\..\..\..\..\bin\ForexConnect.dll
+         C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cpp\TableManagerSamples\OpenPosition\..\..\..\..\bin\fxmsg.dll
+         C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cpp\TableManagerSamples\OpenPosition\..\..\..\..\bin\fxtp.dll
+         C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cpp\TableManagerSamples\OpenPosition\..\..\..\..\bin\gsexpat.dll
+         C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cpp\TableManagerSamples\OpenPosition\..\..\..\..\bin\gstool3.dll
+         C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cpp\TableManagerSamples\OpenPosition\..\..\..\..\bin\gszlib.dll
+         C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cpp\TableManagerSamples\OpenPosition\..\..\..\..\bin\httplib.dll
+         C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cpp\TableManagerSamples\OpenPosition\..\..\..\..\bin\log4cplus.dll
+         C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cpp\TableManagerSamples\OpenPosition\..\..\..\..\bin\msvcp80.dll
+         C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cpp\TableManagerSamples\OpenPosition\..\..\..\..\bin\msvcr80.dll
+         C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cpp\TableManagerSamples\OpenPosition\..\..\..\..\bin\pdas.dll
+                11 file(s) copied.
+         C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cpp\TableManagerSamples\OpenPosition\..\..\sample_tools\bin\sample_tools.dll
+                 1 file(s) copied.
+     1>Done Building Project "C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cpp\TableManagerSamples\OpenPosition\OpenPosition.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:14.90

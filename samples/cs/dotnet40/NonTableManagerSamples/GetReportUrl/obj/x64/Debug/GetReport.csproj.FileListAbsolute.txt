@@ -1,0 +1,7 @@
+C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cs\dotnet40\NonTableManagerSamples\GetReportUrl\bin\GetReport.exe.config
+C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cs\dotnet40\NonTableManagerSamples\GetReportUrl\bin\GetReport.exe
+C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cs\dotnet40\NonTableManagerSamples\GetReportUrl\bin\GetReport.pdb
+C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cs\dotnet40\NonTableManagerSamples\GetReportUrl\bin\fxcore2.dll
+C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cs\dotnet40\NonTableManagerSamples\GetReportUrl\obj\x64\Debug\GetReport.csprojResolveAssemblyReference.cache
+C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cs\dotnet40\NonTableManagerSamples\GetReportUrl\obj\x64\Debug\GetReport.exe
+C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cs\dotnet40\NonTableManagerSamples\GetReportUrl\obj\x64\Debug\GetReport.pdb

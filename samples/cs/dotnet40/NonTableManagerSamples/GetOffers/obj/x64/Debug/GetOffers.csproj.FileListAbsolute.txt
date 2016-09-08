@@ -1,0 +1,7 @@
+C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cs\dotnet40\NonTableManagerSamples\GetOffers\bin\GetOffers.exe.config
+C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cs\dotnet40\NonTableManagerSamples\GetOffers\bin\GetOffers.exe
+C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cs\dotnet40\NonTableManagerSamples\GetOffers\bin\GetOffers.pdb
+C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cs\dotnet40\NonTableManagerSamples\GetOffers\bin\fxcore2.dll
+C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cs\dotnet40\NonTableManagerSamples\GetOffers\obj\x64\Debug\GetOffers.csprojResolveAssemblyReference.cache
+C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cs\dotnet40\NonTableManagerSamples\GetOffers\obj\x64\Debug\GetOffers.exe
+C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cs\dotnet40\NonTableManagerSamples\GetOffers\obj\x64\Debug\GetOffers.pdb

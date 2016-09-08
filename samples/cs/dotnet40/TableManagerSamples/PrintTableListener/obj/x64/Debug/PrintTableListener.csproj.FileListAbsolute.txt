@@ -1,0 +1,7 @@
+C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cs\dotnet40\TableManagerSamples\PrintTableListener\bin\PrintTableListener.exe.config
+C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cs\dotnet40\TableManagerSamples\PrintTableListener\bin\PrintTableListener.exe
+C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cs\dotnet40\TableManagerSamples\PrintTableListener\bin\PrintTableListener.pdb
+C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cs\dotnet40\TableManagerSamples\PrintTableListener\bin\fxcore2.dll
+C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cs\dotnet40\TableManagerSamples\PrintTableListener\obj\x64\Debug\PrintTableListener.csprojResolveAssemblyReference.cache
+C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cs\dotnet40\TableManagerSamples\PrintTableListener\obj\x64\Debug\PrintTableListener.exe
+C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cs\dotnet40\TableManagerSamples\PrintTableListener\obj\x64\Debug\PrintTableListener.pdb

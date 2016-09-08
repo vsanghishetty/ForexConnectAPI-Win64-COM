@@ -1,0 +1,7 @@
+C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cs\dotnet40\NonTableManagerSamples\TradingSettings\bin\TradingSettings.exe.config
+C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cs\dotnet40\NonTableManagerSamples\TradingSettings\bin\TradingSettings.exe
+C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cs\dotnet40\NonTableManagerSamples\TradingSettings\bin\TradingSettings.pdb
+C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cs\dotnet40\NonTableManagerSamples\TradingSettings\bin\fxcore2.dll
+C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cs\dotnet40\NonTableManagerSamples\TradingSettings\obj\x64\Debug\TradingSettings.csprojResolveAssemblyReference.cache
+C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cs\dotnet40\NonTableManagerSamples\TradingSettings\obj\x64\Debug\TradingSettings.exe
+C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cs\dotnet40\NonTableManagerSamples\TradingSettings\obj\x64\Debug\TradingSettings.pdb

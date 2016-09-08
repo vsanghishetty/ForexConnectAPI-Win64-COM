@@ -1,0 +1,7 @@
+C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cs\dotnet40\TableManagerSamples\PrintTable\bin\PrintTable.exe.config
+C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cs\dotnet40\TableManagerSamples\PrintTable\bin\PrintTable.exe
+C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cs\dotnet40\TableManagerSamples\PrintTable\bin\PrintTable.pdb
+C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cs\dotnet40\TableManagerSamples\PrintTable\bin\fxcore2.dll
+C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cs\dotnet40\TableManagerSamples\PrintTable\obj\x64\Debug\PrintTable.csprojResolveAssemblyReference.cache
+C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cs\dotnet40\TableManagerSamples\PrintTable\obj\x64\Debug\PrintTable.exe
+C:\Program Files\Candleworks\ForexConnectAPIx64\samples\cs\dotnet40\TableManagerSamples\PrintTable\obj\x64\Debug\PrintTable.pdb
